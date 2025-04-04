@@ -2,15 +2,21 @@
   "restaurants": [
     {
       "name": "Haldiram",
-      "email": "haldiram@test.com",
-      "address": "nagpur mah",
+      "email": "haldiram@gmail.com",
+      "address": "nagpur maharashtra",
       "id": "254b"
     },
     {
       "id": "00a8",
-      "name": "burhanpur",
-      "email": "test",
-      "address": "test1"
+      "name": "Pizza hut",
+      "email": "pizzahut@gmail.com",
+      "address": "Pune"
+    },
+    {
+      "name": "Mcdonalds",
+      "email": "Mcdonalds@gmail.com",
+      "address": "Nagpur lane 2",
+      "id": "ccc4"
     }
   ]
 }
