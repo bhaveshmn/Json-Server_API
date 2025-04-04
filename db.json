@@ -1,0 +1,16 @@
+{
+  "restaurants": [
+    {
+      "name": "Haldiram",
+      "email": "haldiram@test.com",
+      "address": "nagpur mah",
+      "id": "254b"
+    },
+    {
+      "id": "00a8",
+      "name": "burhanpur",
+      "email": "test",
+      "address": "test1"
+    }
+  ]
+}
